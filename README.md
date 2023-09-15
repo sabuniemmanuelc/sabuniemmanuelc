@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MSC Financial Engineering**
 
-- 👯 I’m looking to collaborate on **3D modelling and ML Project**
+- 👯 I’m looking to collaborate on **3D modelling and Machine Learning & Deep Learning Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabuniemmanuelc](https://github.com/sabuniemmanuelc)
 
