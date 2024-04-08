@@ -7,7 +7,7 @@
 
 - 🔭 **My Portfolio Website** is complete [https://sabuniemmanuelc.com](https://sabuniemmanuelc.com)
 
-- 🌱 I’m completing m **MSC in Financial Engineering** on 27th May, 2024
+- 🌱 I’m completing my **MSC in Financial Engineering** on 27th May, 2024
 
 - 👯 I’m looking to collaborate on **3D modelling and Machine Learning & Deep Learning Project**
 
