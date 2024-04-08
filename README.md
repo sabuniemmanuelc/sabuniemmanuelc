@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 **My Portfolio Website** is complete [https://sabuniemmanuelc.com](https://sabuniemmanuelc.com)
 
-- 🌱 I’m currently learning **MSC Financial Engineering**
+- 🌱 I’m completing m **MSC in Financial Engineering** on 27th May, 2024
 
 - 👯 I’m looking to collaborate on **3D modelling and Machine Learning & Deep Learning Project**
 
