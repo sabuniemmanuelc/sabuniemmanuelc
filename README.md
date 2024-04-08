@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabuniemmanuelc](https://github.com/sabuniemmanuelc)
 
-- 💬 Ask me about **rectjs, Python, Java, C++, Web n App Development, Data Analysis, Portfolio & Risk Management, Stochastic Modeling and Derivetive Pricing**
+- 💬 Ask me about **rectjs, Python, Java, C++, Web n App Development, Data Analysis, Portfolio & Risk Management, Stochastic Modeling and Derivative Pricing**
 
 - 📫 How to reach me **sabuni.emmanuelc@gmail.com**
 
