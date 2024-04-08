@@ -5,15 +5,15 @@
 
 
 
-- 🔭 **My Portfolio Website** is complete [https://sabuniemmanuelc.com](https://sabuniemmanuelc.com)
+- 🔭 **My Portfolio Website** is complete, up and running:  [https://sabuniemmanuelc.com](https://sabuniemmanuelc.com)
 
 - 🌱 I’m completing my **MSC in Financial Engineering** on 27th May, 2024
 
-- 👯 I’m looking to collaborate on **3D modelling and Machine Learning & Deep Learning Project**
+- 👯 I’m looking to collaborate on **3D modelling, Health & Financial Data Analysis and Machine Learning & Deep Learning Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sabuniemmanuelc](https://github.com/sabuniemmanuelc)
 
-- 💬 Ask me about **rectjs, Python, Java, C++ and App Development**
+- 💬 Ask me about **rectjs, Python, Java, C++, Web n App Development, Data Analysis, Portfolio & Risk Management, Stochastic Modeling and Derivetive Pricing**
 
 - 📫 How to reach me **sabuni.emmanuelc@gmail.com**
 
