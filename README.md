@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sabuni Emmanuel C</h1>
-<h3 align="center">Software Engineer || Data Analyst || UIX Designer || AI and Machine Learning Researcher.</h3>
+<h3 align="center">Software Engineer || Data Analyst || Financial Modelling || AI and Machine Learning Researcher.</h3>
 <h3 align="center">BSc Computer Science || MSc Computer Science || MSc Financial Engineering || Data Science & Machine Learning Certification.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabuniemmanuelc&label=Profile%20views&color=0e75b6&style=flat" alt="sabuniemmanuelc" /> </p>
 
