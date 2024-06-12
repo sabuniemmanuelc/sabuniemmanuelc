@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sabuni Emmanuel C</h1>
 <h3 align="center">Software Engineer || Data Analyst || UIX Designer || AI and Machine Learning Researcher.</h3>
-
+<h3 align="center">BSc Computer Science || MSc Computer Science || MSc Financial Engineering || Data Science & Machine Learning Certification.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabuniemmanuelc&label=Profile%20views&color=0e75b6&style=flat" alt="sabuniemmanuelc" /> </p>
 
-
-
 - 🔭 **My Portfolio Website** is complete, up and running:  [https://sabuniemmanuelc.com](https://sabuniemmanuelc.com)
-
-- 🌱 I’m completing my **MSC in Financial Engineering** on 27th May, 2024
 
 - 👯 I’m looking to collaborate on **3D modelling, Health & Financial Data Analysis and Machine Learning & Deep Learning Project**
 
